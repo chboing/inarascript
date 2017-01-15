@@ -1,9 +1,11 @@
 # inarascript
-Analyse journal , construct a file that can be "imported" in Inara's cargo
+Analyse journal , construct a file that can be "imported" in Inara's cargo<br>
+https://www.youtube.com/watch?v=GOyw289TxBw<br>
 
-1 - download nodejs<br>
-2 - npm install<br>
-3 - edit cargoUpdate.js virgincargo & file path<br>
+
+1 - download nodejs, create a dir with all files here.<br>
+2 - "npm install" to import tail / underscore<br>
+3 - edit cargoUpdate.js : virgincargo & file path<br>
 4 - run script with "node cargoUpdate.js"<br>
 5 - look for the yoyo.json file<br>
 6 - create bookmark in browser, copy paste the scriptBrowser.js content in the URL of the bookmark<br>
