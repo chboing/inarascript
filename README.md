@@ -1,4 +1,4 @@
-# inaras cargo script
+# inara cargo script
 Analyse journal , construct a file that can be "imported" in Inara's cargo<br>
 https://www.youtube.com/watch?v=GOyw289TxBw<br>
 
