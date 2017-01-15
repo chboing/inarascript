@@ -14,4 +14,7 @@ https://www.youtube.com/watch?v=GOyw289TxBw<br>
 9 - import yoyo.json<br>
 10 - save<br>
 
+you can run the script from time to time, or let it run while playing, it should update the yoyo.json file live.<br>
+
+
 feel free to ask if needed chboing@gmail.com
