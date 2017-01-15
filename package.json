@@ -1,0 +1,16 @@
+{
+  "name": "cargo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cargoUpdate.js",
+  "dependencies": {
+    "tail": "^1.2.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
