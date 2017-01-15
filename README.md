@@ -1,7 +1,7 @@
 # inarascript
 Analyse journal , construct a file that can be "imported" in Inara's cargo
 
-1 - download nodejs
+1 - download nodejs<br>
 2 - npm install
 3 - edit cargoUpdate.js virgincargo & file path
 4 - run script with "node cargoUpdate.js"
